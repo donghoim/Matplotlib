@@ -51,3 +51,4 @@ plt.ylabel('Y-Axis')
 # frameon = 범례 텍스트 상자의 테투리 표시할지 여부 선택
 plt.legend(loc='best', ncol=2, fontsize=14, frameon=True, shadow=True)
 plt.show()
+

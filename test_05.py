@@ -46,3 +46,4 @@ print(x_range, y_range)             # (0.85, 4.15) (1.6, 10.4)
 axis_range = plt.axis('scaled')
 print(axis_range)                   # (0.85, 4.15, 1.6, 10.4)
 plt.show()
+

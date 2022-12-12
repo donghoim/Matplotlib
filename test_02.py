@@ -7,3 +7,4 @@ data_dict = {'data_x': [1, 2, 3, 4, 5],
 
 plt.plot('data_x', 'data_y', data=data_dict)
 plt.show()
+
